@@ -28,8 +28,8 @@ The program recursively copies files from a source directory to a new directory,
 python task_1.py <source_directory> [destination_directory]
 ```
 
-- <source_directory>: Path to the source directory.
-- [destination_directory]: Path to the destination directory (defaults to `dist`).
+- `<source_directory>`: Path to the source directory.
+- `[destination_directory]`: Path to the destination directory (defaults to `dist`).
 
 ### Example
 
