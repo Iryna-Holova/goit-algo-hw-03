@@ -5,8 +5,8 @@ This repository contains three Python programs that implement various algorithms
 ## Table of Contents
 
 - [Task 1: Recursive File Copying](#task-1-recursive-file-copying)
-- [Task 2: Koch Snowflake](#task-2-koch_snowflake)
-- [Task 3: Towers of Hanoi](#task-3-towers_of_hanoi)
+- [Task 2: Koch Snowflake](#task-2-koch-snowflake)
+- [Task 3: Towers of Hanoi](#task-3-towers-of-hanoi)
 - [How to Run](#how-to-run)
 - [Examples](#examples)
 - [Requirements](#requirements)
