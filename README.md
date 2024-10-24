@@ -8,7 +8,6 @@ This repository contains three Python programs that implement various algorithms
 - [Task 2: Koch Snowflake](#task-2-koch-snowflake)
 - [Task 3: Towers of Hanoi](#task-3-towers-of-hanoi)
 - [How to Run](#how-to-run)
-- [Examples](#examples)
 - [Requirements](#requirements)
 - [License](#license)
 
